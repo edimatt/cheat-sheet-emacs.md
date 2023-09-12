@@ -12,7 +12,7 @@
 | `C-h m`                         | `describe-mode`                                              |
 | `C-h a`                         | `apropos-command`                                            |
 | `C-h i`                         | `info`: opens info documentation                             |
-| `M-x man/woman`                 | Manual pages                                                 |7
+| `M-x man/woman`                 | Manual pages                                                 |
 
 ## Appearance
 | Command                         | Explanation                                                  |
