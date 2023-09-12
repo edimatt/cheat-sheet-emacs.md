@@ -12,4 +12,18 @@
 | `C-h m`                         | `describe-mode`                                              |
 | `C-h a`                         | `apropos-command`                                            |
 | `C-h i`                         | `info`: opens info documentation                             |
-| `M-x man|woman`                 | Manual pages                                                 |
+| `M-x man/woman`                 | Manual pages                                                 |7
+
+## Appearance
+| Command                         | Explanation                                                  |
+|---------------------------------|--------------------------------------------------------------|
+|`C-x C-+`                        | `text-scale-increase`: Enlarge font                          |
+|`C-x C--`                        | `text-scale-decrease`: Shrink font                           |
+
+## General
+| Command                         | Explanation                                                  |
+|---------------------------------|--------------------------------------------------------------|
+|`C-g`                            | `keyboard-quit`: Quits the last command                      |
+|*ESC ESC ESC*                    | `keyboard-escape-quit`: Quit all commands                    |
+|`C-x z`                          | `repeat`: Repeat the last command                            |
+|`C-x *ESC ESC*`                  | `repeat-complex-command`: Command history                    |
