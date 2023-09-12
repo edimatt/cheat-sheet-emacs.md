@@ -26,4 +26,4 @@
 |`C-g`                            | `keyboard-quit`: Quits the last command                      |
 |*ESC ESC ESC*                    | `keyboard-escape-quit`: Quit all commands                    |
 |`C-x z`                          | `repeat`: Repeat the last command                            |
-|`C-x ESC ESC`                    | `repeat-complex-command`: Command history                    |
+|`C-x ESC ESC`                    | `repeat-complex-command`: Command history (`M-p/M-n` cycles) |
